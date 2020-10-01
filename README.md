@@ -1,5 +1,5 @@
 
-#this is a frontend based project for a restaurent. html,css,bootstrap are used to make good looking and user friendly website. 
+#this is a front end based project for a restaurent. html,css,bootstrap are used to make good looking and user friendly website. 
 
 #output folder contains the screenshots of webpages created in this project
 
